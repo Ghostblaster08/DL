@@ -1,0 +1,7 @@
+# install torch from https://pytorch.org/get-started/previous-versions/
+pandas
+torchsummary
+torch 
+torchvision
+torchaudio
+torchcodec
