@@ -3,3 +3,12 @@ EXP_5/dataset/SVHN/test/
 EXP_5/dataset/SVHN/extra/
 EXP_5/dataset/archive(1).zip
 EXP_5/dataset/*
+
+# Datasets / generated data (keep local; don't push)
+/data/
+Optimizer_cookbook/data/
+**/data/
+
+# Common dataset archives
+*.tar.gz
+*.zip
