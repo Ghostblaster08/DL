@@ -2,3 +2,5 @@ torch
 torchvision
 matplotlib
 numpy
+scikit-learn
+tqdm
